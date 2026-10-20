@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "lavela",
+  "version": "1.0.0",
+  "description": "Deploy an app from a GitHub repo to a live server from chat and check on it afterwards. Connects Kiro to the lavela remote MCP server (beta).",
+  "author": { "name": "lavela", "url": "https://lavela.dev" },
+  "homepage": "https://lavela.dev",
+  "repository": "https://github.com/ym2629/lavela-kiro-power",
+  "license": "MIT",
+  "keywords": ["deploy", "hosting", "mcp", "github", "postgres", "domain", "logs", "health-check"]
+}
